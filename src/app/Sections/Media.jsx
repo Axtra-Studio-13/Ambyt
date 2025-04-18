@@ -8,7 +8,7 @@ const Media = () => {
     <div className='relative'>
       <div>
         <Image src={'bg-Group.svg'} alt='media img' width={100} height={10}
-          className='w-full absolute h-fit object-cover top-0 -z-10' />
+          className='w-full absolute h-full object-cover top-0 -z-10' />
       </div>
       <div className='flex flex-col justify-center items-center mt-40 gap-40'>
         <Works src='Group 17.svg' headline='Media Mentions' />
