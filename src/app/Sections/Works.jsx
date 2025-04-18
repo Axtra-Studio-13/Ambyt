@@ -86,7 +86,7 @@ const Works = ({
 
           >
             <TextAnimate animation="slideLeft" by="character"
-              className="w-[60%] max-md:w-[70%] max-sm:w-[90%]
+              className="w-[90%] max-md:w-[70%] max-sm:w-[90%]
               text max-sm:text-xs text-right text-wrap">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi
               quaerat at quas nemo sapiente voluptatem recusandae maiores error,
