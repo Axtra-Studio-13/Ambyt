@@ -69,7 +69,7 @@ const Explore = () => {
   return (
     <div ref={parentRef}
       className="grid grid-cols-2 max-sm:grid-rows-2 max-sm:grid-cols-1
-     mt-40">
+     mt-40 max-sm:gap-y-21">
       <div
         ref={headlineRef}
         className="flex flex-col gap-2 justify-start items-start"

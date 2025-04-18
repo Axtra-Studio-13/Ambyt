@@ -136,7 +136,7 @@ const Hero = () => {
                 height={100}
                 quality={80}
                 alt="mockup"
-                className="absolute max-sm:mt-12 -mt-10 max-md:-mt-30 w-full"
+                className="absolute max-sm:mt-12 -mt-10 max-xs:-mt-15 max-md:-mt-30 w-full"
               />
               <Image
                 ref={mobileMockup}
